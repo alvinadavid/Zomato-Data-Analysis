@@ -1,7 +1,7 @@
 # Zomato-Data-Analysis
 A Python project showcasing data cleaning, analysis, and visualization techniques on the Zomato dataset using Pandas, Matplotlib, and Seaborn.
 
-#Tools I Used
+# Tools I used
 Python 
 Google Colab (For writing my code)
 Libraries that I used for Data Analysis:
