@@ -2,13 +2,13 @@
 
 ---
 
-## 📊 Project Overview
+##  Project Overview
 
 A Python project showcasing data cleaning, analysis, and visualization techniques on the Zomato dataset using Pandas, Matplotlib, and Seaborn.
 
 ---
 
-## 🛠️ Tools I Used
+##  Tools I Used
 
 Here are the technologies and libraries that powered this project:
 
